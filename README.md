@@ -1,1 +1,2 @@
 # Project1_EDA_IndianStartUp
+A start-up is a young company, usually few years old, founded to develop a unique product or service, bring it to market, and scale it rapidly. Start-ups are typically characterized by innovation, a focus on addressing a market gap, and high growth potential, often operating in uncertain environments with limited resources. They are largely funded by the founders' personal networks, including friends and family, and they actively seek additional financing to support their growth and establish a sustainable business.
